@@ -18,19 +18,19 @@ class MyApp extends StatelessWidget {
           children: [
             Text('Question 1'),
             RaisedButton(
-              child: Text('Option1'),
+              child: Text('Option 1'),
               onPressed: null,
             ),
             RaisedButton(
-              child: Text('Option1'),
+              child: Text('Option 2'),
               onPressed: null,
             ),
             RaisedButton(
-              child: Text('Option1'),
+              child: Text('Option 3'),
               onPressed: null,
             ),
             RaisedButton(
-              child: Text('Option1'),
+              child: Text('Option 4'),
               onPressed: null,
             ),
           ],
